@@ -15,4 +15,4 @@ Collect as many coins as you can find in the maze.
 
 NOTE: requires VDP v 2.7.3 or above for walls to be rendered using 'filled path' VDP plot command.
 
-Now superceeded by https://github.com/richardturnnidge/3dmaze
+Now superceded by https://github.com/richardturnnidge/3dmaze
